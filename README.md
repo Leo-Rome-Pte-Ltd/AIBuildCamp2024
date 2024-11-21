@@ -1,6 +1,7 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: >-
+  https://images.unsplash.com/photo-1573167243872-43c6433b9d40?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxlbmdpbmVlciUyMGNvbW11bml0eXxlbnwwfHx8fDE3MzIxODA0MTB8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
@@ -19,6 +20,10 @@ layout:
 ---
 
 # Welcome to AI BuildCamp 2024
+
+
+
+<figure><img src=".gitbook/assets/813b4e89-6bd3-450a-9770-e1ffce483760 (1).avif" alt=""><figcaption></figcaption></figure>
 
 We will publish all the content related to AI BuildCamp 2024 on this website.
 
@@ -73,9 +78,16 @@ Here is the content outline for the 5 lessons
 
 ​**Outcome**: Teams will complete the course with a working, AI-powered application and feedback from industry mentors, preparing them for further development or deployment.
 
-\
 
+
+**Program Dates**: 07/12/2024 - 07/01/2025
+
+**Discord:**  [**https://discord.gg/qFTKY6C9**](https://discord.gg/qFTKY6C9)
+
+**Venue**: Holistics Vietnam office - 457 Nguyen Dinh Chieu, D3, HCMC
+
+**Registration:** [**https://lu.ma/sjae5p4o**](https://lu.ma/sjae5p4o)
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Lesson 1</strong></td><td>Introduction to Generative AI and Getting Started with Firebase</td><td></td><td></td><td><a href="getting-started/lesson-1-introduction-to-generative-ai-and-getting-started-with-firebase.md">lesson-1-introduction-to-generative-ai-and-getting-started-with-firebase.md</a></td></tr><tr><td><strong>Lesson 2</strong></td><td>Creating and Deploying the Frontend with Firebase Hosting and Authentication</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/lesson-2-creating-and-deploying-the-frontend-with-firebase-hosting-and-authentication.md">lesson-2-creating-and-deploying-the-frontend-with-firebase-hosting-and-authentication.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Lesson 1</strong></td><td>Introduction to Generative AI and Getting Started with Firebase</td><td></td><td></td><td><a href="getting-started/lesson-1-introduction-to-generative-ai-and-getting-started-with-firebase.md">lesson-1-introduction-to-generative-ai-and-getting-started-with-firebase.md</a></td></tr><tr><td><strong>Lesson 2</strong></td><td>Creating and Deploying the Frontend with Firebase Hosting and Authentication</td><td></td><td></td><td><a href="getting-started/lesson-2-creating-and-deploying-the-frontend-with-firebase-hosting-and-authentication.md">lesson-2-creating-and-deploying-the-frontend-with-firebase-hosting-and-authentication.md</a></td></tr><tr><td><strong>Lesson 3</strong></td><td>Building a Serverless Backend with Firebase Functions</td><td></td><td></td><td><a href="getting-started/lesson-3-building-a-serverless-backend-with-firebase-functions.md">lesson-3-building-a-serverless-backend-with-firebase-functions.md</a></td></tr></tbody></table>
