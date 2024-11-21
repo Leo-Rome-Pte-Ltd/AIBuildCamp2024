@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to AI BuildCamp 2024](README.md)
 
 ## Getting Started
 
