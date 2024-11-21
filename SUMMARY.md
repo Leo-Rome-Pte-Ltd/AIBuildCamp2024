@@ -4,8 +4,8 @@
 
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Lesson 1 - Introduction to Generative AI and Getting Started with Firebase](getting-started/lesson-1-introduction-to-generative-ai-and-getting-started-with-firebase.md)
+* [Lesson 2 - Creating and Deploying the Frontend with Firebase Hosting and Authentication](getting-started/lesson-2-creating-and-deploying-the-frontend-with-firebase-hosting-and-authentication.md)
 
 ## Basics
 
