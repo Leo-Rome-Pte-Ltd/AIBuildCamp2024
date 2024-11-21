@@ -2,26 +2,16 @@
 icon: bullseye-arrow
 ---
 
-# Quickstart
+# Lesson 1 - Introduction to Generative AI and Getting Started with Firebase
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+### ​**Lesson 1: Introduction to Generative AI and Getting Started with Firebase**
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
-{% endhint %}
+* ​Overview of Generative AI: Discuss the fundamentals of generative AI, exploring applications across industries, and how it adds value in real-world use cases.
+* ​Why Gemini?: Dive into the strengths of Google’s Gemini model, highlighting its unique advantages in AI-powered applications.
+* ​Firebase and Google Cloud for AI-driven development, why it’s better than other options like Vercel or Netlify.
+* ​Project Planning and Ideation: Initial brainstorming of project ideas that leverage the power of AI for real-world problems.
 
-### Import
+​Outcome: **Participants will gain a strong understanding of generative AI and have Firebase fully set up and ready for application development.**
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
-
-<div data-full-width="false">
-
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-### Sync a repository
-
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
